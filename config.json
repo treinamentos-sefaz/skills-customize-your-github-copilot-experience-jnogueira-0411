@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "aspnet-core-rest-api",
+      "title": "First REST API with ASP.NET Core",
+      "description": "Create a beginner C# REST API with ASP.NET Core Minimal APIs and in-memory task data.",
+      "path": "assignments/aspnet-core-rest-api",
+      "dueDate": "2026-11-11"
     }
   ]
 }
